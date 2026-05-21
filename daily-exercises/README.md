@@ -23,6 +23,7 @@ go test -v
 | Day | 题目 | 知识点 | 状态 |
 |-----|------|-------|------|
 | 01 | [KV 缓存（带 TTL）](day01-kv-cache-with-ttl/) | struct、map、mutex、time、interface{} | ⏳ 待做 |
+| 02 | [HTTP Client SDK](day02-http-client-sdk/) | net/http、json、context、APIError、httptest | ⏳ 待做 |
 
 ## 难度梯度
 
