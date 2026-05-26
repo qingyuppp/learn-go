@@ -24,6 +24,7 @@ go test -v
 |-----|------|-------|------|
 | 01 | [KV 缓存（带 TTL）](day01-kv-cache-with-ttl/) | struct、map、mutex、time、interface{} | ⏳ 待做 |
 | 02 | [HTTP Client SDK](day02-http-client-sdk/) | net/http、json、context、APIError、httptest | ⏳ 待做 |
+| 03 | [JSON 协议服务端](day03-json-protocol/) | Unix socket、bufio.Scanner、json、goroutine、dispatch | ⏳ 待做 |
 
 ## 难度梯度
 
