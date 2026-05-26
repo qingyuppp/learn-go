@@ -3,6 +3,7 @@
 // 运行方式：go run server.go
 // 然后另开一个终端运行：go run client.go
 //
+//go:build ignore
 // 这个服务端监听一个 Unix socket，等待客户端发 JSON 命令，
 // 处理后返回 JSON 响应——跟 QEMU Monitor Protocol (QMP) 思路完全一样。
 
