@@ -3,3 +3,8 @@
 02-struct/02-struct
 03-context/03-context
 04-goroutine/04-goroutine
+
+# IDE / 工具目录
+.joycode/
+.idea/
+.vscode/
